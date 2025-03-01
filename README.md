@@ -1,4 +1,4 @@
-# 🚀 FastAPI + PostgreSQL: The Simplest Backend Ever!
+# 🚀 FastAPI + PostgreSQL Backend: The perfect match for your [Next.js Frontend](https://github.com/Bradd3rs/full-stack-starter-frontend)!
 
 Hey there, fellow developer! Welcome to this super simple FastAPI backend with PostgreSQL. This repo is designed to be your hassle-free backend solution that plays nicely with any frontend, especially Next.js. No complicated setup, no headaches - just pure API goodness!
 
