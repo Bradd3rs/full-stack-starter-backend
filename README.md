@@ -14,6 +14,12 @@ Hey there, fellow developer! Welcome to this super simple FastAPI backend with P
 
 ### 🐳 The Docker Way (Recommended)
 
+> **Don't have Docker yet?** No problem! Get it from [Docker's official website](https://www.docker.com/products/docker-desktop/) or install via command line:
+>
+> - **macOS**: `brew install docker docker-compose`
+> - **Ubuntu/Debian**: `sudo apt-get update && sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin`
+> - **CentOS/RHEL**: `sudo yum install docker-ce docker-ce-cli containerd.io docker-compose-plugin`
+
 ```bash
 # 1. Clone this repo
 git clone <repository-url>
