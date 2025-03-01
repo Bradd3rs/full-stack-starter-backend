@@ -81,7 +81,7 @@ Feel free to change these for production! 🔒
 
 ## 🤝 Perfect Pair: The Next.js Frontend Companion
 
-Want a beautiful UI to go with this API? Check out our [Next.js Frontend Companion](https://github.com/yourusername/full-stack-starter-frontend) repo!
+Want a beautiful UI to go with this API? Check out our [Next.js Frontend Companion](https://github.com/Bradd3rs/full-stack-starter-frontend) repo!
 
 It's pre-configured to connect to this backend and includes:
 
@@ -114,7 +114,7 @@ Then visit [http://localhost:3000](http://localhost:3000) to see your full-stack
 
 ### 🌟 CORS is Already Set Up!
 
-The API is already configured to accept requests from your frontend:
+The API is already configured to accept requests from your frontend. For a complete frontend implementation that works with this backend, check out our [Next.js Frontend Companion](https://github.com/Bradd3rs/full-stack-starter-backend).
 
 ```python
 # It's already done in app/main.py!
