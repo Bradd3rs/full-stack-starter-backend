@@ -81,7 +81,7 @@ Feel free to change these for production! 🔒
 
 ## 🤝 Perfect Pair: The Next.js Frontend Companion
 
-Want a beautiful UI to go with this API? Check out our [Next.js Frontend Companion](https://github.com/Bradd3rs/full-stack-starter-frontend) repo!
+Want a beautiful UI to go with this API? Check out our [full-stack-starter-frontend](https://github.com/Bradd3rs/full-stack-starter-frontend) repo!
 
 It's pre-configured to connect to this backend and includes:
 
