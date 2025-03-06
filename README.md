@@ -22,8 +22,8 @@ Hey there, fellow developer! Welcome to this super simple FastAPI backend with P
 
 ```bash
 # 1. Clone this repo
-git clone <repository-url>
-cd fastApi-example
+git clone https://github.com/Bradd3rs/full-stack-starter-backend
+cd full-stack-starter-backend
 
 # 2. Fire up the engines!
 docker-compose up -d
