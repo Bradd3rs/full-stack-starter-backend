@@ -101,7 +101,7 @@ Getting it running is as simple as:
 
 ```bash
 # Clone the frontend repo
-git clone <frontend-repository-url>
+git clone https://github.com/Bradd3rs/full-stack-starter-frontend
 cd full-stack-starter-frontend
 
 # Install dependencies
